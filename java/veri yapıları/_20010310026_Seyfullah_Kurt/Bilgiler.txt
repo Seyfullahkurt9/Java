@@ -1,0 +1,13 @@
+Kişiler ve Seçtikleri Kart:
+ali kart-3
+osman kart-1
+ayşe kart-4
+ömer kart-2
+Oyun Kartları:
+kart-11 3 6 10 14 19
+kart-8 1 4 5 15 16
+kart-1 2 6 7 13 20
+kart-3 5 8 11 12 18
+kart-4 6 9 11 13 17
+kart-2 1 5 7 10 15
+
